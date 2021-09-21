@@ -177,6 +177,7 @@ body {
   height: calc(100vh - 60px);
   background-image: url(../Images/mountain-2.jpg);
   background-size: cover;
+  background-position: center;
   display: flex;
   justify-content: center;
   align-items: center;
